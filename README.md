@@ -23,26 +23,11 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 
 La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte de C++. Aquí encontrarás las estructuras fundamentales del lenguaje, como la definición de clases, condicionales, bucles, y métodos, junto con su respectiva sintaxis para escribir código claro y organizado.
 
-| NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
+| NOMBRE | FAMILIA | SINTAXIS |
 | :--- | :--- | :---: |
 | Variable | Tipo / var | tipo variable = valor \n var variable = valor |
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
-|  |  |  |  
+| NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
+
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :---: | :---: |

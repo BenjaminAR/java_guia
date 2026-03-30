@@ -21,7 +21,7 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 | Clase (Objeto) | Objetos | NombreClase | `new Object()` |
 | Nulo | Objetos | null (Ausencia de objeto) | `null` |
 
-
+La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte de C++. Aquí encontrarás las estructuras fundamentales del lenguaje, como la definición de clases, condicionales, bucles, y métodos, junto con su respectiva sintaxis para escribir código claro y organizado.
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :---: | :---: |

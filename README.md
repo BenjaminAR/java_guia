@@ -25,8 +25,7 @@ La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte
 
 | NOMBRE | FAMILIA | SINTAXIS |
 | :--- | :--- | :---: |
-| Variable | Tipo / var | tipo variable = valor  
-var variable = valor |
+| Variable | Tipo / var | tipo variable = valor <br> var variable = valor |
 
 
 

@@ -15,7 +15,7 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 | Booleano | Primitivo | boolean | true/false |
 | Cadena de texto | Objetos | String | "Hola" |
 | Array | Objetos | tipo[] | { 1, 2 ,3 } |
-| Lista | Objetos | List | `java new ArrayList<>()` |
+| Lista | Objetos | List | ```java new ArrayList<>()``` |
 | Conjunto | Objetos | Set |  |
 | Mapa | Objetos | Map |  |
 | Clase (Objeto) | Objetos | NombreClase |  |

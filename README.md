@@ -13,7 +13,13 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 | Flotante (double) | Primitivo |  doble (64 bits) | 3.1416 |
 | Carácter | Primitivo | char | 'A' |
 | Booleano | Primitivo | boolean | true/false |
-| Objetos |  |  |  |
+| Cadena de texto | Objetos | String | "Hola" |
+| Array | Objetos | tipo[] | { 1, 2 ,3 } |
+| Lista | Objetos | List | `java new ArrayList<>()` |
+| Conjunto | Objetos | Set |  |
+| Mapa | Objetos | Map |  |
+| Clase (Objeto) | Objetos | NombreClase |  |
+| Nulo | Objetos | null (Ausencia de objeto) |  |
 
 
 

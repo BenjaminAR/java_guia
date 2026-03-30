@@ -13,6 +13,8 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 | Flotante (double) | Primitivo |  doble (64 bits) | 3.1416 |
 | Carácter | Primitivo | char | 'A' |
 | Booleano | Primitivo | boolean | true/false |
+| #Objetos |
+
 
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |

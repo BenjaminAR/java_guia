@@ -23,7 +23,7 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 
 La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte de C++. Aquí encontrarás las estructuras fundamentales del lenguaje, como la definición de clases, condicionales, bucles, y métodos, junto con su respectiva sintaxis para escribir código claro y organizado.
 
-| NOMBRE | FAMILIA | SINTAXIS |
+| NOMBRE | PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :--- |
 | Variable | tipo / var | tipo variable = valor <br> var variable = valor |
 | Constante | final | final tipo constante = valor  | 
@@ -33,7 +33,22 @@ La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte
 | Bucle for | for | for(inicialización; condición; incremento) { } |
 | Bucle for each | for | for ( elemento : colección ) { } |
 | Bucle while | while | while (condición) { } |
-
+| Bucle do while | do while | do { } while (condición) |
+| Switch | switch | switch (variable) { case valor: } |
+| Función (método) | void / tipo | public void/tipoRetorno <br> nombreMétodo (parámetros) |
+| Método principal | main | public static void main <br>(String[] args) { } |
+| Clase | class | public class NombreClase { } |
+| Sentencia break | break | break |
+| Sentencia continue | continue | continue |
+| Retorno | return | return valor |
+| Paquete | package | package com.paquete |
+| Importar | import | import java.util.List |
+| Contructor | NobreClase | public NombreClase() { } |
+| Instanciar objeto | new | new MiClase() |
+| Excepciones | try, catch | try (...) catch (Exepción) {  } |
+| Bloque finally | finally | finally { } |
+| Lanzar excepción | throw | trow new Excepcón |
+| Declarar excepcón | throws | throws Excepción {  } |
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :---: | :---: |

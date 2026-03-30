@@ -5,9 +5,21 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :---: | :---: |
+| Entero | Primitivo | int(32 bits) | 0 |
+| Entero (byte) | Primitivo | byte (8 bits) | 0 |
+| Entero (short)| Primitivo | short (16 bits) | 0 |
+| Entero (long) | Primitivo | long (64 bits) | 0L |
+| Flotante | Primitivo | float (32 bits) | 3.1416 |
+| Flotante (double) | Primitivo |  doble (64 bits) | 3.1416 |
+| Carácter | Primitivo | char | 'A' |
+| Booleano | Primitivo | boolean | true/false |
+
+
+| NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
+| :--- | :--- | :---: | :---: |
 | AND | Operador Lógico | && | a && b |
 | OR | Operador Lógico | \|\| | A \|\| B |
-|  |  |  | |
-|  |  |  | |
-|  |  |  | |
-|  |  |  | |
+| NOT | Operador Lógico | ! | !a |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |

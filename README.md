@@ -6,7 +6,7 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :--- | :--- |
 | AND | Operador Lógico | && | a && b |
-| OR | Operador Lógico | '||' | `A || B` |
+| OR | Operador Lógico | \|\| | A \|\| B |
 |  |  |  | |
 |  |  |  | |
 |  |  |  | |

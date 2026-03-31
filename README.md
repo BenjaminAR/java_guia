@@ -118,5 +118,21 @@ muy útiles para tareas comunes, desde la manipulación de texto como `String` h
 | trim() | String | Divide una cadena en un array de subcadenas. |
 | contains() | String | Comprueba si una cadena contiene una subcadena. |
 | valueOf() | String | Convierte un tipo primitivo a su representación en String. |
+| abs() | Math | Retorna el valor absoluto de un número. |
+| sqrt() | Math | Calcula la raíz cuadrada. |
+| pow() | Math | Calcula la potencia. |
+| random() | Math | Genera un número aleatorio entre 0.0 y 1.0. |
+| max() | Math | Devuelve el valor máximo entre dos números. |
+| min() | Math | Devuelve el valor mínimo entre dos números. |
+| round() | Math | Redondea al entero más cercano. |
+| parseInt() | Math | Convierte una cadena a un doble |
+| now() | LocalDate / LocalDataTime | Obtienela fecha o fecha y hora actual |
+| of() | LocalDate / LocalTime | Crea una fecha/hora a partir de valores. |
+| format() | DataTimeFormatter | Formatea una fecha/hora a una cadena. |
 
+---
+
+## Estructuras de datos.
+
+En Java collections Framework (JCF) provee un conjunto de estructuras de datos. Las listas, conjunto y mapas son las interfaces principales, con implementaciones como _ArrayList, HashMap y HashSet_ que ofrecen distintas garantías de rendimiento y orden. Támbien existen el _Arrey_ como estructura primitiva.
 

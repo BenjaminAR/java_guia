@@ -179,6 +179,7 @@ En Java collections Framework (JCF) provee un conjunto de estructuras de datos. 
 Java ofrece un potente sistema de **manejo de archivos** a través de los paquetes java.io (clásico , basadi eb streams) y java.nio (moderno, más eficiente) Es recomendable usar el bloque _try-with-resourse_ para asegurar que los ficheros se cierren automáticamente.
 
 | NOMBRE | REPRESENTACIÓN | SINTAXIS |
+| :--- | :--- | :--- |
 | **---------** | **Moderno (java.nio)** | **---------** |
 | readString() | Lee todo el contenido a un String | File.readString(path) |
 | readAllLines() | Lee todas las líneas a una List | File.writeString(path) |

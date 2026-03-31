@@ -196,8 +196,26 @@ Java ofrece un potente sistema de **manejo de archivos** a través de los paquet
 | write() | Escribe una cadena | bufferedWriter.write(text) |
 
 ---
+## Paquetes estándar
+Java cuenta con una **Biblioteca de cales estándar (API)** muy extensa, organizada en paquetes (_packages_). Estos paquetes proveen funcionalidades listas para usar sin necesidad de instalar librerias externas, desde colecciones y concurrencia hasta redes y acceso a base de datos, Algunaos aquí :arrow_down:
 
+| NOMBRE | DESCRIPCIÓN | 
+| :--- | :--- |
+| `java.lang` | Paquete fundamental, importado automáticamente. <br> contiene Object, String, System, Math y las clases envortorio (integer, Double). |
+| `java.util` | Contiene el collections framework(List, Map, Set), clases de utilidad como Scaner, Random, Optinal y Objects. |
+| `java.nio` | Nueva API I/O (NIO), ofrece manejo de archivos y redes de alto rendimiento, con buffers y canales. |
+| `java.time` | API moderna y completa para el manejo de fechas, horas, duraciones e instantes. Sustituye a la antiguajava.util.Date |
+| `java.net` | Proporciona calses para la programación de red, como Socket, URL, URLConnection para crear clientes y servidores. |
+| `java.math` | Ofrece clases para cálculos matemáticos. |
+| `java.util.stream` | La API de streams, que permite un prosesamiento de datos de estilo funcional (declarativo) sobre colecciones. |
+| `java.sql` | API de JDBC para interactuar con base de datos relacionales mediante sentencias SQL. |
+| `javax.swing` | Framwork para crear interfaces gráficas de usuario (GUI) de escritorio, Ha sido en gran parte secedido por JavaFX |
+| `javafx.*` | Framework moderno para crear aplicaciones de escritorio enriquecidas y multiplataforma. Es el sucesor de Swing |
 
+--
+## Librerias y frameworks externos
+
+El ecosistema de Java es inmenso. Para gestionar dependencias y contruir proyetos, se usan herramientas como **Maven** o **Gradle**. Estas permiten incorporar **Librerías** y **frameworks** que extienden las capacidades del lenguaje para todo tipo de aplicaciones.
 
 
 

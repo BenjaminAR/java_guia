@@ -62,7 +62,7 @@ La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte
 Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en Java. Se dividen en variascategorías:  
 -- Aritméticos (suma, resta).
 -- Comparación (moyor, menor, igual).
--- Lógicos (&&, \/|| , !).
+-- Lógicos (&&, \|| , !).
 -- De asignación (=, +=).
 -- Bitwise.
 -- Operador ternario.
@@ -70,9 +70,14 @@ Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :---: | :---: |
+| Suma | Aritméticos | + | A + B |
+| Resta | Aritméticos | - | A - B |
+| Multiplicación | Aritméticos | * | A * B |
+| División | Aritméticos | / | A / B |
+| Módulo (residuo) | Aritméticos | % | A % B |
+| Incremento | Aritméticos | ++ | a++ \| ++a |
+| Decremento | Aritméticos | -- | a-- \| --a |
 | AND | Operador Lógico | && | a && b |
 | OR | Operador Lógico | \|\| | A \|\| B |
 | NOT | Operador Lógico | ! | !a |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+

@@ -136,3 +136,56 @@ muy útiles para tareas comunes, desde la manipulación de texto como `String` h
 
 En Java collections Framework (JCF) provee un conjunto de estructuras de datos. Las listas, conjunto y mapas son las interfaces principales, con implementaciones como _ArrayList, HashMap y HashSet_ que ofrecen distintas garantías de rendimiento y orden. Támbien existen el _Arrey_ como estructura primitiva.
 
+| NOMBRE | OPERACIÓN | SINTAXIS |
+| :--- | :--- | :--- |
+| **---------** | **Arrays** | **---------** |
+| length() | Obtiene el tamaño (propiedad) | array.length |
+| **---------** | **Listas (Arrays)** | **---------** |
+| add() | Agrege múltiples elementos | lista.add(valor) |
+| add() | Inserta en una posición | lista.add(índice, valor) |
+| get() | Obtiene un elemento por índice | lista.get(índice, valor) |
+| set() | Modifica un elemento por índice | lista.set(índice, nuevo) |
+| remove() | Elimina un elemento por índice | lista.remove(índice) |
+| remove() | Eliminala primera ocurrencia | lista.remove(valor) |
+| size() | Devuelve el tamaño | lista.size() |
+| indexOf() | Devuelve el índice de un valor | lista.indexOf(valor) |
+| clear() | Elimina todos los elementos | lista.clear() |
+| contains() | Comprueba si existe el valor | lista.contains(valor) |
+| **---------** | **Colecciones** | **---------** |
+| sort() | Ordena un array o una lista | lista.sort() |
+| filter() | filtra elementos según condición | lista.filter() |
+| map() | Transforma cada elemento | lista.map() |
+| **---------** | **Conjuntos (HashSet)** | **---------** |
+| add() | Agrega un elemento (si no existe) | set.add(valor) |
+| remove() | Elimina un elemento | set.remove(valor) |
+| contains() | Comprueba si existe el valor | set.contains(valor) |
+| size() | Devuelve el número de elementos | set.size() |
+| isEmpty() | Commprueba si está vacío | set.isEmpty() |
+| clear() | Elimina todos los elementos | set.clear() |
+| **---------** | **Mapas (HashMap)** | **---------** |
+| put() | Inserta/actualiza un par clave-valor | mapa.put(clave, valor) |
+| get() | Obtiene el valor de una clave | mapa.get(clave) |
+| remove() | Elimina el par de una clave | mapa.remove(clave) |
+| constainsKey() | Comprueba si existe la clave | mapa.constainsKey(clave) |
+| KeySet() | Devuelve un `set` de las claves | mapa.keySet() |
+| values() | Devuelve una colleccion de valores | mapa.values() |
+| entrySet() | Devuelve un set de pares clave-valor | mapa.entrySet() |
+| size() | Devuelve el número de pares | mapa.size() |
+| clear() | Elimina todos los pares | mapa.clear() |
+
+---
+
+## Manejo de archivos
+Java ofrece un potente sistema de **manejo de archivos** a través de los paquetes java.io (clásico , basadi eb streams) y java.nio (moderno, más eficiente) Es recomendable usar el bloque _try-with-resourse_ para asegurar que los ficheros se cierren automáticamente.
+
+| NOMBRE | REPRESENTACIÓN | SINTAXIS |
+| **---------** | **Moderno (java.nio)** | **---------** |
+| readString() | Lee todo el contenido a un String | File.readString(path) |
+| readAllLines() | Lee todas las líneas a una List | File.writeString(path) |
+| writeString() | Escribe un string en un archivo | File.writeString(path) |
+
+
+
+
+
+

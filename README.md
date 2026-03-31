@@ -60,12 +60,12 @@ La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte
 
 ##Operadores
 Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en Java. Se dividen en variascategorías:  
--- Aritméticos (suma, resta).
--- Comparación (moyor, menor, igual).
--- Lógicos (&&, \|| , !).
--- De asignación (=, +=).
--- Bitwise.
--- Operador ternario.
+- Aritméticos (suma, resta).
+- Comparación (moyor, menor, igual).
+- Lógicos (&&, \|| , !).
+- De asignación (=, +=).
+- Bitwise.
+- Operador ternario.
 
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
@@ -75,8 +75,16 @@ Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en
 | Multiplicación | Aritméticos | * | A * B |
 | División | Aritméticos | / | A / B |
 | Módulo (residuo) | Aritméticos | % | A % B |
-| Incremento | Aritméticos | ++ | a++ \| ++a |
-| Decremento | Aritméticos | -- | a-- \| --a |
+| Incremento | Aritméticos | ++ | a++ ó ++a |
+| Decremento | Aritméticos | -- | a-- ó --a |
+| Iugual a | Comparación | == | A == B |
+| Distito de | Comparación | != | A != B |
+| Mayor que | Comparación | > | A > B |
+| Menor que | Comparación | < | A < B |
+| Mayor o igual que | Comparación | >= | A >= B |
+| Menor o igual que | Comparación | <= | A <= B |
+
+
 | AND | Operador Lógico | && | a && b |
 | OR | Operador Lógico | \|\| | A \|\| B |
 | NOT | Operador Lógico | ! | !a |

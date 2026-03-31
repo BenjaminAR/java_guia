@@ -58,8 +58,7 @@ La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte
 | protected | protected | Accesible desde el mismo paquete y subclase |
 | default | (Sin palabra) | Por defecto. Accesible para las clases del mismo paquete. |
 
-##Operadores 
-
+## Operadores:
 Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en Java. Se dividen en variascategorías:  
 - Aritméticos (suma, resta).
 - Comparación (moyor, menor, igual).

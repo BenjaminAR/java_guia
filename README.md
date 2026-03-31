@@ -68,7 +68,7 @@ Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en
 - Operador ternario.
 
 
-| NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
+| NOMBRE | FAMILIA | SIMBOLO(S) | SINTAXIS |
 | :--- | :--- | :---: | :---: |
 | Suma | Aritméticos | + | A + B |
 | Resta | Aritméticos | - | A - B |
@@ -83,9 +83,18 @@ Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en
 | Menor que | Comparación | < | A < B |
 | Mayor o igual que | Comparación | >= | A >= B |
 | Menor o igual que | Comparación | <= | A <= B |
-
-
 | AND | Operador Lógico | && | a && b |
 | OR | Operador Lógico | \|\| | A \|\| B |
 | NOT | Operador Lógico | ! | !a |
+| Asignar | Asignación | = | x = 5 |
+| Asig. con suma | Asignación | += | x += 7 |
+| Asig. con resta | Asignación | -= | x -= 10 |
+| Asig. con multiplicación | Asignación | *= | x *= 7 |
+| Asig. con división | Asignación | /= | x /= 10 |
+| AND bit a bit | Bitwise | & | a & b |
+| OR bit a bit | Bitwise | \| | a \| b |
+| XOR bit a bit | Bitwise | ^ | a ^ b |
+| Desplaz. a la izq. | Bitwise | << | a << b |
+| Desplaz. a la der. | Bitwise | >> | a >> b |
+| Condicional ternario | O. Ternario | ? : | Condición ? <br> valorSiTrue : <br> valorSiFalse |
 

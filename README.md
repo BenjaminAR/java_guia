@@ -98,6 +98,8 @@ Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en
 | Desplaz. a la der. | Bitwise | >> | a >> b |
 | Condicional ternario | O. Ternario | ? : | Condición ? <br> valorSiTrue : <br> valorSiFalse |
 
+---
+
 ## Métodos / Funciones
 En java, la funcionalidad está encapsulada en métodos (funciones) dentro de clases. La librería estándar proporciona calses con métodos  
 muy útiles para tareas comunes, desde la manipulación de texto como `String` hasta operaciones matemáticas con `Math` o la iteracción con la consola a através de `System`

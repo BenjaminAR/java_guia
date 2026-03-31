@@ -103,3 +103,20 @@ Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en
 ## Métodos / Funciones
 En java, la funcionalidad está encapsulada en métodos (funciones) dentro de clases. La librería estándar proporciona calses con métodos  
 muy útiles para tareas comunes, desde la manipulación de texto como `String` hasta operaciones matemáticas con `Math` o la iteracción con la consola a através de `System`
+
+| NOMBRE | CLASE | OPERACIÓN |
+| :--- | :--- | :--- |
+| println() | `System.out` | Muestra texto o variables en la consola con un salto de línea. |
+| equals() | Objetc | Compara si un objeto es igual a otro (A nivel de contenido). |
+| toString() | Object | Devuelve una representación en texto del objeto. | 
+| hashCode() | Object | Devuelve un código hash del objeto |
+| length() | String | Devuelve la cantidad de caracteres de una cadena |
+| charAt() | String | Devuelve el carácter en una posición específica. |
+| substring() | String | Extrae una parte de una cadena. |
+| toUpperCase() | String | Convierte una cadena en mayúsculas. |
+| toLowerCase() | String | Convierte una cadena en minúsculas. |
+| trim() | String | Divide una cadena en un array de subcadenas. |
+| contains() | String | Comprueba si una cadena contiene una subcadena. |
+| valueOf() | String | Convierte un tipo primitivo a su representación en String. |
+
+

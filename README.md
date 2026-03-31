@@ -181,9 +181,21 @@ Java ofrece un potente sistema de **manejo de archivos** a través de los paquet
 | NOMBRE | REPRESENTACIÓN | SINTAXIS |
 | :--- | :--- | :--- |
 | **---------** | **Moderno (java.nio)** | **---------** |
-| readString() | Lee todo el contenido a un String | File.readString(path) |
-| readAllLines() | Lee todas las líneas a una List | File.writeString(path) |
-| writeString() | Escribe un string en un archivo | File.writeString(path) |
+| readString() | Lee todo el contenido a un String | Files.readString(path) |
+| readAllLines() | Lee todas las líneas a una List | Files.writeString(path) |
+| writeString() | Escribe un string en un archivo | Files.writeString(path) |
+| exist() | Comprueba si un archivo existe | Files.exist(path) |
+| creteDirectory() | Crea un directorio | Files.createDirectory(p) |
+| delate() | Elimina | Files.delete(path) |
+| **---------** | **Clásico (java.io)** | **---------** |
+| FileReader | Lee un archivo de texto | new FileReader(File) |
+| BufferedReader | Lee texto en una forma eficiente | new BufferedReader(reader) |
+| readLine() | Lee una línea | BufferedReader.readLine() |
+| FileWriter | Escribe en un archivo | new FileWriter(file) |
+| BufferedWriter | Escribe texto de forma eficiente | new BufferedWriter(writer) |
+| write() | Escribe una cadena | bufferedWriter.write(text) |
+
+---
 
 
 

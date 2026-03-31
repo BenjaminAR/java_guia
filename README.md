@@ -47,8 +47,26 @@ La sintaxis de JAVA es estructurada y orintada a objetos, heredada de gran parte
 | Instanciar objeto | new | new MiClase() |
 | Excepciones | try, catch | try (...) catch (Exepción) {  } |
 | Bloque finally | finally | finally { } |
-| Lanzar excepción | throw | trow new Excepcón |
+| Lanzar excepción | throw | trow new Excepción |
 | Declarar excepcón | throws | throws Excepción {  } |
+| Comprobar instancia | instanceof | variable instanceof tipo |
+| Acceder a superclase | super | super.metodoSuperclase() |
+| Referencia a instancia | this | this.miVariable |
+| ------ | MODIFICADORES DE ACCESO | ----- |
+| Public | public | Acesible desde cualquier otra clase en cualquier paquete |
+| Private | private | Accecible sólo desde la clase en la que fue declarado |
+| protected | protected | Accesible desde el mismo paquete y subclase |
+| default | (Sin palabra) | Por defecto. Accesible para las clases del mismo paquete. |
+
+##Operadores
+Los operadores son símbolos que permiten eralizar cálculos y comprobaciones en Java. Se dividen en variascategorías:  
+-- Aritméticos (suma, resta).
+-- Comparación (moyor, menor, igual).
+-- Lógicos (&&, \/|| , !).
+-- De asignación (=, +=).
+-- Bitwise.
+-- Operador ternario.
+
 
 | NOMBRE | FAMILIA |PALABRA RESERVADA | SINTAXIS |
 | :--- | :--- | :---: | :---: |

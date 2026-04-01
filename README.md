@@ -14,7 +14,7 @@ Los datos básicos de cualquier lenguaje de programacion son fundamentales para 
 | Carácter | Primitivo | char | 'A' |
 | Booleano | Primitivo | boolean | true/false |
 | Cadena de texto | Objetos | String | "Hola" |
-| Array | Objetos | tipo[] | { 1, 2 ,3 } |
+| Array | Objetos | tipo[ ] | { 1, 2 ,3 } |
 | Lista | Objetos | List | `new ArrayList<>()` |
 | Conjunto | Objetos | Set | `new HashSet<>()` |
 | Mapa | Objetos | Map | `new HashMap<>()` |

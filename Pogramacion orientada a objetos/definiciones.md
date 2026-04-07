@@ -6,7 +6,13 @@ Es la unidad básica de la POO. si la clase es el molde para hacer el pan, el ob
 ### Caracteristicas
 - identidad: Cada objeto es único, incluso si sus atributos son iguales a otros; ejemplo: choche("Morado", "4 puertas") y otro igual choche("Morado", "4 puertas") estos dos tienen asignado un espacio de memoria diferente.
 - Ciclo de vida: Un objeto nace (Se instancia con la palabra reservada `new`, vive mientras tenga un uso y muere (Trabajo automatico de *Garbage Collector* da java) cuadno ya no hay referencias a el.
-- Interacción: Los objetos se cominican entre si invocando métodos unos de otros. 
+- Interacción: Los objetos se cominican entre si invocando métodos unos de otros.
+### Elementos
+| ELEMENTO  | CARACTERISTICA | EJEMPLO |
+| :--- | :--- | :---: |
+| Atributos | la info que un objeto "sabe" o posee son las variables que definen sus caracteristicas en un metodo dato.  | Si el objeto en Usuario, sus atributos serian nombre, email, password (Aquí se nota algo llamado **abtracción**) |
+| Metodos | Es lo que el objeto "sabe hacer". funciones o acciones que puede ejecutar | `iniciarSesion()`, `cerrarSesion()`, `actualizarPerfil()` |
+
 
 ---
 ## Pilares de POO.

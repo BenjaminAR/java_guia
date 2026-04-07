@@ -1,6 +1,7 @@
-#Programación orientada a objetos (POO)
+# Programación orientada a objetos (POO)
+La programación orientada a objetos no solo es una forma de escribir código, es una arquitectura para modelar la realidad (En un sistema de softare).
 
-
+---
 ## Pilares fundamentales de la programacion.
 
 | PILAR  | DEFINICION | PALABRA(S) RESERVADA |

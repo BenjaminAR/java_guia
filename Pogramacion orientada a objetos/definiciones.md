@@ -2,7 +2,7 @@
 La programación orientada a objetos no solo es una forma de escribir código, es una arquitectura para modelar la realidad (En un sistema de softare).
 
 ---
-## Pilares fundamentales de la programacion.
+## Pilares de POO.
 
 | PILAR  | DEFINICION | PALABRA(S) RESERVADA |
 | :--- | :--- | :---: | 

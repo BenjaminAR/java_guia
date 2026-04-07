@@ -1,4 +1,7 @@
-# Pilares fundamentales de la programacion.
+#Programación orientada a objetos (POO)
+
+
+## Pilares fundamentales de la programacion.
 
 | PILAR  | DEFINICION | PALABRA(S) RESERVADA |
 | :--- | :--- | :---: | 

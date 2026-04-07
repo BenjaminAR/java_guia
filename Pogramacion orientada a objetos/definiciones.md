@@ -1,4 +1,4 @@
-#Pilares fundamentales de la programacion.
+# Pilares fundamentales de la programacion.
 
 | PILAR  | DEFINICION | PALABRA(S) RESERVADA |
 | :--- | :--- | :---: | 

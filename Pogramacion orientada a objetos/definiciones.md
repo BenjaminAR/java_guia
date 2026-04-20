@@ -1,5 +1,5 @@
 # Programación orientada a objetos (POO)
-La programación orientada a objetos no solo es una forma de escribir código, es una arquitectura para modelar la realidad (En un sistema de softare).
+La programación orientada a objetos no solo es una forma de escribir código, es una arquitectura para modelar la realidad (En un sistema de software).
 
 ## Objeto
 Un objeto es la unidad básica de la POO. si la clase es el molde para hacer el pan, el objeto seria el pan. En práctica un objeto es la instancia de una clase.
